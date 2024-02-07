@@ -55,6 +55,24 @@
           null
         ]
       },
+      "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/child.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
       "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/channels/application_cable/channel.rb": {
         "lines": [
           0,
@@ -336,28 +354,8 @@
         ],
         "branches": {
         }
-      },
-      "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/child.rb": {
-        "lines": [
-          0,
-          0,
-          0,
-          null,
-          0,
-          0,
-          null,
-          0,
-          0,
-          null,
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
       }
     },
-    "timestamp": 1707266044
+    "timestamp": 1707266414
   }
 }

@@ -28,12 +28,27 @@
       "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/child.rb": {
         "lines": [
           1,
+          1,
+          1,
           null
         ]
       },
       "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/application_record.rb": {
         "lines": [
           1,
+          1,
+          null
+        ]
+      },
+      "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/chore.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/task.rb": {
+        "lines": [
           1,
           null
         ]
@@ -319,24 +334,8 @@
         ],
         "branches": {
         }
-      },
-      "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/chore.rb": {
-        "lines": [
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/task.rb": {
-        "lines": [
-          0,
-          0
-        ],
-        "branches": {
-        }
       }
     },
-    "timestamp": 1707263690
+    "timestamp": 1707264411
   }
 }

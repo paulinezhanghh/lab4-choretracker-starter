@@ -25,33 +25,15 @@
           null
         ]
       },
-      "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/task.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          1,
-          null,
-          2,
-          2,
-          null
-        ]
-      },
-      "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/application_record.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
       "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/chore.rb": {
         "lines": [
-          1,
-          1,
-          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -70,6 +52,28 @@
           1,
           0,
           null,
+          null
+        ]
+      },
+      "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/zrx/Documents/GitHub/lab4-choretracker-starter/app/models/task.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
           null
         ]
       },
@@ -356,6 +360,6 @@
         }
       }
     },
-    "timestamp": 1707266414
+    "timestamp": 1707267586
   }
 }

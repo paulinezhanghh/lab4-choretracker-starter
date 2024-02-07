@@ -4,5 +4,8 @@ class Task < ApplicationRecord
 
     validates_presence_of :name
 
-    validate_numericality_of :points, :greater_than =>0
+    validates_numericality_of :points, :greater_than =>0
+
+    scope :order_by_name, ->{ order('name') }
+    scope :active, -> { where(active:true) }
 end
